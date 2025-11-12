@@ -1,4 +1,4 @@
-Rock-Paper-Scissors Game (HTML, CSS, JavaScript)
+Rock-Paper-Scissors Game (HTML, CSS, JavaScript).
 
 Developed a fun and interactive Rock-Paper-Scissors game using HTML, CSS, and JavaScript.
 This project showcases my skills in front-end web development, incorporating dynamic interactions,
